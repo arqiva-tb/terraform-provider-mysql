@@ -1,4 +1,4 @@
-module github.com/arqiva-tb/terraform-provider-mysql
+module github.com/fvp-mds/terraform-provider-mysql
 
 go 1.19
 

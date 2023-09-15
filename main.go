@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/arqiva-tb/terraform-provider-mysql/mysql"
+	"github.com/fvp-mds/terraform-provider-mysql/mysql"
 	"github.com/hashicorp/terraform-plugin-sdk/plugin"
 )
 

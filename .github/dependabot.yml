@@ -11,10 +11,10 @@ updates:
       interval: "daily"
 
     reviewers:
-      - "arqiva-tb/architects"
-      - "arqiva-tb/developers"
-      - "arqiva-tb/devops"
-      - "arqiva-tb/ops"
+      - "fvp-mds/architects"
+      - "fvp-mds/developers"
+      - "fvp-mds/devops"
+      - "fvp-mds/ops"
 
     open-pull-requests-limit: 0 # no version updates
 
@@ -26,9 +26,9 @@ updates:
       interval: "daily"
 
     reviewers:
-      - "arqiva-tb/architects"
-      - "arqiva-tb/developers"
-      - "arqiva-tb/devops"
-      - "arqiva-tb/ops"
+      - "fvp-mds/architects"
+      - "fvp-mds/developers"
+      - "fvp-mds/devops"
+      - "fvp-mds/ops"
 
     open-pull-requests-limit: 0 # no version updates
